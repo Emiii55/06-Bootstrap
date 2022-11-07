@@ -1,0 +1,20 @@
+.accordion-button {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color:cornsilk
+}
+
+.accordion-body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color:cornsilk
+}
+
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
